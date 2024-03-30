@@ -1,6 +1,6 @@
 ## National-Onsites-Participation
 
-Here, I will try to recollect my team contest journey. Till now, I have participated in contests with two different teams. <br /> <br />
+Here, I have tried to recollect my team contest journey. Till now, I have participated in contests with two different teams. <br /> <br />
 **PSTU_Gryffindor   :** Md. Taifur Rahman, Md. Tazim Uddin, Me. <br />
 **PSTU : MoonCalves :** Rony Mir, Md. Tazim Uddin, Me. <br /> <br /> <br />
 
