@@ -5,8 +5,8 @@ Here, I will try to recollect my team contest journey. Till now, I have particip
 **PSTU : MoonCalves :** Rony Mir, Md. Tazim Uddin, Me. <br /> <br /> <br />
 
 
-| Date | Contest | Username | Rank | Problem Set | Scope | Story & Solution 
-| --- | -- | -------- | ----------- | ---- | ---- | -----| --------------- 
+| Date | Contest | Username | Rank | Problem Set | Scope | Story & Solution
+| --- | -- | -------- | ----------- | ---- | ---- | ----- | 
 | 28/01/2023 | [SUST IUPC 2023](https://toph.co/c/sust-inter-university-2023/standings) | PSTU_Gryffindor | 70 | Team | IUPC |
 | 11/03/2023 | ICPC Dhaka Regional 2022 | PSTU_Gryffindor | 104 | Team | ICPC |
 | 28/07/2023 | [BUET IUPC 2023](https://toph.co/c/buet-inter-university-2023/standings) | PSTU_MoonCalves | 80 | Team | IUPC |
