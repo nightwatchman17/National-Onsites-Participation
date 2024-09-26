@@ -15,6 +15,7 @@ Here, I have tried to recollect my team contest journey. Till now, I have partic
 | 18/02/2024 | [SUST IUPC 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | PSTU : MoonCalves | 32 |  | IUPC |
 | 20/02/2024 | [NCPC Preli JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | PSTU : MoonCalves | 42 |  | NCPC |
 | 09/03/2024 | [NCPC Main JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | PSTU : MoonCalves | 41 |  | NCPC |
+| 27/04/2024 | [IUT IUPC 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | PSTU : MoonCalves | 18 |  | IUPC |
 
 
 
