@@ -3,6 +3,7 @@
 Here, I have tried to recollect my team contest journey. Till now, I have participated in contests with two different teams. <br /> <br />
 **PSTU_Gryffindor   :** Md. Taifur Rahman, Md. Tazim Uddin, Me. <br />
 **PSTU : MoonCalves :** Rony Mir, Md. Tazim Uddin, Me. <br /> <br /> <br />
+**PSTU : Returned From Breaking Point :** Rony Mir, Md. Tazim Uddin, Me. <br /> <br /> <br />
 
 
 | Date | Contest | Team Name | Rank | Problem Set | Scope | Story & Solution
@@ -16,6 +17,7 @@ Here, I have tried to recollect my team contest journey. Till now, I have partic
 | 20/02/2024 | [NCPC Preli JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | PSTU : MoonCalves | 42 |  | NCPC |
 | 09/03/2024 | [NCPC Main JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | PSTU : MoonCalves | 41 |  | NCPC |
 | 27/04/2024 | [IUT IUPC 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | PSTU : MoonCalves | 18 |  | IUPC |
+| 01/11/2024 | [BUET IUPC 2024](https://toph.co/c/inter-university-buet-cse-fest-2024/standings) | PSTU : Returned From Breaking Point | 17 |  | IUPC |
 
 
 
