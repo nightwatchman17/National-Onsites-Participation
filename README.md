@@ -18,6 +18,8 @@ Here, I have tried to recollect my team contest journey.  <br /> <br />
 | 09/03/2024 | [NCPC Main JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | PSTU : MoonCalves | 41 |  | NCPC |
 | 27/04/2024 | [IUT IUPC 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | PSTU : MoonCalves | 18 |  | IUPC |
 | 01/11/2024 | [BUET IUPC 2024](https://toph.co/c/inter-university-buet-cse-fest-2024/standings) | PSTU : Returned From Breaking Point | 17 |  | IUPC |
+| 01/11/2024 | [ICPC Dhaka Regional 2024](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round/standings) | PSTU : Returned From Breaking Point | 28 |  | ICPC |
+
 
 
 
